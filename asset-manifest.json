@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.ac3835b2.css",
+    "main.js": "/Portfolio/static/js/main.9514e17f.js",
+    "static/media/shopping-card.svg": "/Portfolio/static/media/shopping-card.9e614bda8e611995b9efda63c8cc16b2.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.ac3835b2.css.map": "/Portfolio/static/css/main.ac3835b2.css.map",
+    "main.9514e17f.js.map": "/Portfolio/static/js/main.9514e17f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac3835b2.css",
+    "static/js/main.9514e17f.js"
+  ]
+}
